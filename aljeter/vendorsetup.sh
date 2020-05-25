@@ -1,0 +1,2 @@
+add_lunch_combo omni_aljeter-userdebug
+add_lunch_combo omni_aljeter-eng
